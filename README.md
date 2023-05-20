@@ -27,7 +27,7 @@ As a software architect, I have developed a wide range of skills and expertise i
 
 - **Cloud Technologies**: I am proficient in leveraging cloud platforms in AWS to design and deploy scalable and resilient applications.
 
-- **Software Development**: I have hands-on experience in various programming languages, including but not limited to Java, C#, Python, and JavaScript.
+- **Software Development**: I have hands-on experience in Java, Go, and JavaScript.
 
 - **DevOps**: I have a solid understanding of DevOps principles and practices, enabling me to collaborate effectively with development and operations teams to ensure smooth deployments and continuous delivery.
 

@@ -25,7 +25,7 @@ As a software architect, I have developed a wide range of skills and expertise i
 
 - **System Integration**: I have experience in integrating complex systems, including third-party APIs, databases, and legacy systems.
 
-- **Cloud Technologies**: I am proficient in leveraging cloud platforms in AWS to design and deploy scalable and resilient applications.
+- **Cloud Technologies**: I am proficient in leveraging cloud platform in AWS to design and deploy scalable and resilient applications.
 
 - **Software Development**: I have hands-on experience in Java, Go, and JavaScript.
 
